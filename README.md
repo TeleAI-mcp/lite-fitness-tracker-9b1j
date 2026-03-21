@@ -1,2 +1,3 @@
-# lite-fitness-tracker-9b1j
-Automated issue comment bot repository
+# Lite Fitness Tracker 9B1J
+
+Automated issue comment bot repository.
